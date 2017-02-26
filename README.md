@@ -7,7 +7,7 @@ Question 1 <br />
 Question 2
 # Build Commands :
 Question 1 <br />
-python3.5 main.py <br />
+python3.5 driver.py <br />
 Question 2 <br />
 python3.5 main.py <br />
 # About:
