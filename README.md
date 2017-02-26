@@ -6,8 +6,9 @@ The project is done in python3.5 with Gedit or Text Editor. It was tested over U
 Question 1 <br />
 Question 2
 # Build Commands :
-Question 1
+Question 1 <br />
 python3.5 main.py <br />
+Question 2 <br />
 python3.5 main.py <br />
 # About:
 Mudit Rathore <br />
