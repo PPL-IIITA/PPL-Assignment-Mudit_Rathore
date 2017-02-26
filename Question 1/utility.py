@@ -12,7 +12,7 @@ def testing_utility():
 
     for i in range(0,600):
         gifts = gifts + [('gift' + str(i),random.randint(0,600),random.randint(0,600),gift_type[random.randint(0,2)])]
-        #[gift number , , , gift type] 
+        #[gift number ,cost  ,value , gift type] 
     for j in range (0,500):
         girls+=[('girl' + str(j),random.randint(0,25),random.randint(0,20),random.randint(0,10),girls_type[random.randint(0,2)])]
         #[name,attractiveness,maintainance_budget,intelligence,_type]
