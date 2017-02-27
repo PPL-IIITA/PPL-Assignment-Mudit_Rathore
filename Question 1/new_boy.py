@@ -1,7 +1,7 @@
 class boy:
     def __init__(self,name,attractiveness,intelligence,min_attraction_requirement,budget,_type):
         self.name = name
-        self.attrativeness = attractiveness
+        self.attractiveness = attractiveness
         self.intelligence = intelligence
         self.min_attraction_requirement = min_attraction_requirement
         self.budget = budget
