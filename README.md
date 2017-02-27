@@ -9,7 +9,7 @@ Question 2
 Question 1 <br />
 python3.5 driver.py <br />
 Question 2 <br />
-python3.5 main.py <br />
+python3.5 fn_driver.py <br />
 # About:
 Mudit Rathore <br />
 ICM2015502 <br />
