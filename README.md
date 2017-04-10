@@ -5,12 +5,19 @@ The project is done in python3.5 with Gedit or Text Editor. It was tested over U
 # Contents:
 Question 1 <br />
 Question 2 <br />
+Question 4 <br />
+ques5 <br />
 Read Me
 # Build Commands :
 Question 1 <br />
 python3.5 driver.py <br />
 Question 2 <br />
 python3.5 fn_driver.py <br />
+Question 4 <br />
+python3.5 driver.py <br />
+ques5 <br />
+python3.5 driver.py <br />
+
 # About:
 Mudit Rathore <br />
 ICM2015502 <br />
